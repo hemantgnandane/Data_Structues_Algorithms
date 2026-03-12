@@ -35,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0509-fibonacci-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Sorting
 |  |
@@ -63,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0191-number-of-1-bits) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
