@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0541-reverse-string-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
