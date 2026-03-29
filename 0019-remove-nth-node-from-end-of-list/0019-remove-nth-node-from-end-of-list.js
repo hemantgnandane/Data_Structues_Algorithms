@@ -11,25 +11,31 @@
  * @return {ListNode}
  */
 var removeNthFromEnd = function(head, n) {
-
+    //sentinetal node, second pointer, first pointer
     let senti = new ListNode();
     senti.next = head;
-    let len = 0;
-    while(head){
-        head = head.next;
-        len++;
-    }
-    let pren = len - n;
 
-    let prev = senti;
+    let sptr = senti;
+    let fptr = senti;
 
-    for(let i = 0; i< pren; i++){
-        prev = prev.next;
+    for(let i = 0; i<n;i++){
+        fptr = fptr.next;
     }
 
-    prev.next = prev.next.next;
 
-    console.log(len);
+    // traverse two pointer
+    while(fptr.next){
+        sptr = sptr.next;
+        fptr = fptr.next;
+    }
+
+    // sptr = sptr.next;
+    //delete    
+    sptr.next = sptr.next.next;
+
+
+
+    //return 
     return senti.next;
     
 };
