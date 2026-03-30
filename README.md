@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0485-max-consecutive-ones) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0541-reverse-string-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 ## Dynamic Programming
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0268-missing-number) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Binary Search
 |  |
 | ------- |
