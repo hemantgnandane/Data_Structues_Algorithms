@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
