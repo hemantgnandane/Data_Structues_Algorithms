@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0344-reverse-string) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0002-add-two-numbers) |
+| [0202-happy-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0509-fibonacci-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0268-missing-number) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
