@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0771-jewels-and-stones) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2942-find-words-containing-character](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2942-find-words-containing-character) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Counting
+|  |
+| ------- |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
