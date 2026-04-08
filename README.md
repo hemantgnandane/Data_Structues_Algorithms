@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0771-jewels-and-stones) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2351-first-letter-to-appear-twice](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2351-first-letter-to-appear-twice) |
 | [2788-split-strings-by-separator](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2788-split-strings-by-separator) |
 | [2942-find-words-containing-character](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2942-find-words-containing-character) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2351-first-letter-to-appear-twice](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0268-missing-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2351-first-letter-to-appear-twice](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
