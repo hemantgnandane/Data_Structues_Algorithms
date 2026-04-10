@@ -3,7 +3,7 @@
  * @return {string}
  */
 var largestOddNumber = function(num) {
-    let str = "";
+    // let str = "";
     for(let i = num.length-1; i>=0; i--){
         let a = num[i] - '0';
     
