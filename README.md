@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0202-happy-number) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0541-reverse-string-ii) |
