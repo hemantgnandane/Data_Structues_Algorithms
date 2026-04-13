@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1903-largest-odd-number-in-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2351-first-letter-to-appear-twice) |
 | [2405-optimal-partition-of-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2405-optimal-partition-of-string) |
 | [2788-split-strings-by-separator](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2788-split-strings-by-separator) |
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
