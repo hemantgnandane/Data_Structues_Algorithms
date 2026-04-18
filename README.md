@@ -161,10 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0707-design-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
