@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0771-jewels-and-stones) |
+| [1021-remove-outermost-parentheses](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1903-largest-odd-number-in-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting
 |  |
