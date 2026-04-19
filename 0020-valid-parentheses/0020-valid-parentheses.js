@@ -6,31 +6,24 @@ var isValid = function(s) {
     if(s.length%2 != 0) return false;
     
   let stack = [];
+
+  let map = {
+    '{' : '}',
+    '[' : ']',
+    '(' : ')'
+  }
   
   for(let i =0; i<s.length; i++){
 
-    console.log(stack);
-    let c  = s[i];
-    console.log(c)
-    if(c == '(' || c == '{' || c == '['){
-        stack.push(c);
-    }
+    if(map[s[i]]) stack.push(s[i]);
     else{
-        
-        if(c == ')'){ 
-            if(stack.pop() == '(') continue; 
-            else return false; 
-            }
-        else if(c == '}'){ 
-            if(stack.pop() == '{') continue; 
-            else return false; 
-            }
-        else if(c == ']') { 
-            if(stack.pop() == '[') continue; 
-            else return false; 
-            }
+        let top = stack.pop();
+        if(!top || s[i] != map[top])
+            return false;
+    }
+    
     }   
-  }  
+   
 
    return stack.length == 0;
-};
+}
