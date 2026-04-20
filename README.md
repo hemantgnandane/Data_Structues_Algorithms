@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2788-split-strings-by-separator](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2788-split-strings-by-separator) |
 | [2942-find-words-containing-character](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2942-find-words-containing-character) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1903-largest-odd-number-in-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2405-optimal-partition-of-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2405-optimal-partition-of-string) |
 ## Trie
 |  |
