@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0739-daily-temperatures](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0739-daily-temperatures) |
+| [0994-rotting-oranges](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0994-rotting-oranges) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1816-truncate-sentence](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1816-truncate-sentence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -240,4 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0796-rotate-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
