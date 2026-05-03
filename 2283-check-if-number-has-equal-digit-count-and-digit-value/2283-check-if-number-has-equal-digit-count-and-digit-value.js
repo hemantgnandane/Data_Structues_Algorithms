@@ -20,10 +20,6 @@ var digitCount = function(nums) {
             return false;
         }
     }
-    
-
-    console.log(arr);
-
 
     return true;
 };
