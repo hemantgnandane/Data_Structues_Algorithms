@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2351-first-letter-to-appear-twice) |
 | [2405-optimal-partition-of-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2405-optimal-partition-of-string) |
 | [2788-split-strings-by-separator](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2788-split-strings-by-separator) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2351-first-letter-to-appear-twice) |
 | [2405-optimal-partition-of-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2405-optimal-partition-of-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Greedy
