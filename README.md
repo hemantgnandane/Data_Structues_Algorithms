@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2460-apply-operations-to-an-array](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2460-apply-operations-to-an-array) |
 | [2788-split-strings-by-separator](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2788-split-strings-by-separator) |
 | [2942-find-words-containing-character](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2942-find-words-containing-character) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2460-apply-operations-to-an-array](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2460-apply-operations-to-an-array](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2460-apply-operations-to-an-array) |
 ## Queue
 |  |
 | ------- |
