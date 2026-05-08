@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0268-missing-number) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
