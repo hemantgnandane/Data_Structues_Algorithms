@@ -23,16 +23,16 @@ var solution = function(isBadVersion) {
         let r = n;
         let min = n;
 
-        while(l<=r){
+        while(l<r){
             let m = l + Math.floor((r-l)/2);
-            console.log(m);
+            // console.log(m);
             if(isBadVersion(m)){
-                min = Math.min(m, min);
-                    r = m - 1;
+                // min = Math.min(m, min);
+                    r = m;
                 } 
             else l = m + 1;
         }
-        return min;
+        return r;
         
     };
 };
