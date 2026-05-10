@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0374-guess-number-higher-or-lower) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -263,5 +264,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
