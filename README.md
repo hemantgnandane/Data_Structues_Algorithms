@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0049-group-anagrams) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
@@ -266,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0374-guess-number-higher-or-lower) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
