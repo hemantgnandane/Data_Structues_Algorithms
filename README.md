@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0125-valid-palindrome) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0125-valid-palindrome) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0796-rotate-string) |
 ## Breadth-First Search
 |  |
