@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0771-jewels-and-stones) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
