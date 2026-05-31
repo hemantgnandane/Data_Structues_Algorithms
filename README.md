@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0485-max-consecutive-ones) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0283-move-zeroes) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0374-guess-number-higher-or-lower) |
