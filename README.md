@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0796-rotate-string) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -290,4 +293,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
