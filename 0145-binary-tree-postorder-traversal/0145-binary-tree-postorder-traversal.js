@@ -23,14 +23,14 @@ var postorderTraversal = function(root) {
         curr.left && s1.push(curr.left);
         curr.right && s1.push(curr.right);
     }
-console.log(s2);
+// console.log(s2);
 
 let ans = [];
 
 while(s2.length){
     ans.push(s2.pop().val);
 }
-console.log(ans);
+// console.log(ans);
 return ans;
 
     
