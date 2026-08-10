@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0020-valid-parentheses) |
+| [0145-binary-tree-postorder-traversal](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0225-implement-stack-using-queues) |
@@ -294,4 +295,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0567-permutation-in-string) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
