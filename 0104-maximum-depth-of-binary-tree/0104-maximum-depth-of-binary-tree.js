@@ -11,21 +11,8 @@
  * @return {number}
  */
 var maxDepth = function(root) {
-let ma = 1;
-let depth = 1;
-
-return reccur(root, depth, ma);    
+    if(!root) return 0;
+    let left = maxDepth(root.left);
+    let right = maxDepth(root.right);
+    return 1 + Math.max(left, right);   
 };
-
-let reccur = function(root, depth, ma){
-    if(root == null) return 0;
-    
-    ma = Math.max(depth, ma);
-    console.log(ma);
-
-let c  = reccur(root.left, depth + 1, ma);
-let d = reccur(root.right, depth + 1, ma);
-
-
-return Math.max(ma, c, d);
-}
