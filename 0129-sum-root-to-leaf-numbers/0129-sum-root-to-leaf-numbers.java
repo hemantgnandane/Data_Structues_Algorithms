@@ -24,8 +24,8 @@ class Solution {
         System.out.println(sum + " " + lsum);
         if(root == null) return;
         sum = sum * 10 + root.val;
+        if(root.left == null && root.right == null) lsum += sum;
         recc(root.left, sum);
         recc(root.right, sum);
-        if(root.left == null && root.right == null) lsum += sum;
     }
 }
