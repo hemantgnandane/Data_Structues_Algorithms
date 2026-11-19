@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0796-rotate-string) |
 ## Breadth-First Search
 |  |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Tree
@@ -349,8 +352,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0572-subtree-of-another-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0543-diameter-of-binary-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
