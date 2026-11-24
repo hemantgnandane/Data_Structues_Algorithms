@@ -17,7 +17,7 @@ class Solution {
         int n = nums.length + 1;
         int m = sum + 1;
 
-        sum = target;
+        // sum = target;
 
         int[][] dp = new int[n][m];
 
