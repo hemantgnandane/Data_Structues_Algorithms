@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0494-target-sum) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -391,4 +394,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
