@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0494-target-sum) |
