@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0647-palindromic-substrings](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0647-palindromic-substrings) |
 | [0771-jewels-and-stones](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0796-rotate-string) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1003-check-if-word-is-valid-after-substitutions) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0509-fibonacci-number) |
+| [0647-palindromic-substrings](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0647-palindromic-substrings) |
 ## Math
 |  |
 | ------- |
