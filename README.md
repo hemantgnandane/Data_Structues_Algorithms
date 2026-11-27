@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0739-daily-temperatures](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0994-rotting-oranges) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1816-truncate-sentence](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1816-truncate-sentence) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0746-min-cost-climbing-stairs) |
 ## Math
 |  |
 | ------- |
