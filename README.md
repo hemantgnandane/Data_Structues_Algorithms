@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0485-max-consecutive-ones) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0120-triangle](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0509-fibonacci-number) |
