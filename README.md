@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1668-maximum-repeating-substring](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1668-maximum-repeating-substring) |
 | [1816-truncate-sentence](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0746-min-cost-climbing-stairs) |
+| [1668-maximum-repeating-substring](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1668-maximum-repeating-substring) |
 ## Math
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/0796-rotate-string) |
+| [1668-maximum-repeating-substring](https://github.com/hemantgnandane/Data_Structues_Algorithms/tree/master/1668-maximum-repeating-substring) |
 ## Breadth-First Search
 |  |
 | ------- |
